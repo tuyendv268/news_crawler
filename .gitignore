@@ -1,0 +1,26 @@
+.idea/
+__pycache__
+*/__pycache__
+*/*/__pycache__
+*.pyc
+*/.ipynb_checkpoints
+
+.env
+log/
+data
+test_data
+lib
+processing/make_vocab.py
+processing/vocab.txt
+
+news_crawler/vnexpress
+news_crawler/baomoi
+news_crawler/yts-sub
+news_crawler/phimstudy
+news_crawler/tima
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version

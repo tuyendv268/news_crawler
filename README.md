@@ -1,2 +1,2 @@
-# vnd-nlp-text-crawler
+# news crawler
 
